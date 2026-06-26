@@ -14,3 +14,28 @@ To develop an autonomous delivery robot capable of transporting items between de
 | TASK 8 | Configure Nav2 navigation stack | 25-Jun |
 | TASK 9 | Create delivery workflow | 26-Jun |
 | TASK 10 | Testing and debugging | 26-Jun |
+
+## PROJECT OBJECTIVES
+The objectives of this project are
+
+- Learn ROS2 Robot Development
+- Design a mobile robot from scratch
+- Create a URDF model
+- Simulate the robot in Gazebo
+- Integrate LiDAR
+- Perform SLAM Mapping
+- Implement AMCL Localization
+- Configure Navigation2
+- Perform autonomous indoor delivery
+
+
+### ROBOT WORKFLOW
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0be46862-70c6-4917-a0ef-17c6540456d0" />
+
+
+
+
+
+
+
+
